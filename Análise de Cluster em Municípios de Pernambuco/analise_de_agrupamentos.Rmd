@@ -33,7 +33,7 @@ Definindo o diretório de trabalho.
 
 ```{r message=FALSE}
 # definindo o diretório base com os dados
-setwd('/home/joas/Data-science-projects/Análise de Cluster')
+setwd('/home/joas/Data-science-projects/Análise de Cluster em Municípios de Pernambuco')
 ```
 
 # Método Hierárquico

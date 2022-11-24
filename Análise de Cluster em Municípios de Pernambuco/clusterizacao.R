@@ -7,7 +7,7 @@ library(fpc) # algoritmo de cluster e visualização
 library(gridExtra) # para a função grid arrange
 
 # definindo o diretório de trabalho
-setwd('/home/joas/Data-science-projects/Análise de Cluster')
+setwd('/home/joas/Data-science-projects/Análise de Cluster em Municípios de Pernambuco')
 
 ################################################################################
 ####################        CLUSTER HIERARQUICO          #######################        
